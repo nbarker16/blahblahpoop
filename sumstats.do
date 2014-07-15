@@ -19,5 +19,5 @@ tabulate weight if price > 10000
 assert inlist(foreign, 0, 1)
 bys foreign: summarize price
 
-* This command is not on ssc install. Thanks a lot buddy.
+* This command is not on ssc install. Thanks a lot buddy!
 * nicewords, smiley
